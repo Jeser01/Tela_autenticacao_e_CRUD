@@ -1,6 +1,6 @@
 # Dentro do Pacote View selecione o FrmLoginVIEW.java e execute-o utilizando a tecla "SHIFT juntamente com a tecla F6".
 ## Script banco de dados.
-## Copie e cole esse código em seu MySQL para estar criando as tabelas usadas pelas classes DAO.
+## Copie e cole esse código em seu MySQL para estar criando as tabelas utilizadas pelas classes DAO.
 
 create database bancoteste;
 
